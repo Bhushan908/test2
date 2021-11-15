@@ -1,0 +1,6 @@
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.Models\bin\Debug\MyApp.Models.dll
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.Models\bin\Debug\MyApp.Models.pdb
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.Models\obj\Debug\MyApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.Models\obj\Debug\MyApp.Models.dll
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.Models\obj\Debug\MyApp.Models.pdb
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.Models\obj\Debug\MyApp.Models.csproj.AssemblyReference.cache

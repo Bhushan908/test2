@@ -1,0 +1,13 @@
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\bin\Debug\MyApp.DB.dll.config
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\bin\Debug\MyApp.DB.dll
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\bin\Debug\MyApp.DB.pdb
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\bin\Debug\EntityFramework.dll
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\bin\Debug\MyApp.Models.dll
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\bin\Debug\MyApp.Models.pdb
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\bin\Debug\EntityFramework.xml
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\obj\Debug\MyApp.DB.csproj.AssemblyReference.cache
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\obj\Debug\MyApp.DB.csproj.CoreCompileInputs.cache
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\obj\Debug\MyApp.DB.dll
+C:\Users\bhushan\source\repos\MVSTASK3\MyApp.DB\obj\Debug\MyApp.DB.pdb
